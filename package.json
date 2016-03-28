@@ -1,10 +1,10 @@
 {
     "title": "Brackets Easy Lime Theme",
-    "name": "JustAMisterE.Brackets-easy-lime",
+    "name": "JustAMisterE.Brackets-easy-lime-theme",
     "description": "Easy on your eyes, day or night",
     "version": "1.0.0",
     "author": "https://github.com/JustAMisterE",
-    "homepage": "https://github.com/JustAMisterE/Brackets-easy-lime",
+    "homepage": "https://github.com/JustAMisterE/Brackets-easy-lime-theme",
     "engines": {
         "brackets": ">=0.42.0"
     },
